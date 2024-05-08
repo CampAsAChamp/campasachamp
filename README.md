@@ -4,3 +4,14 @@
 
 
 [![Nick's GitHub stats](https://github-readme-stats-alpha-blush.vercel.app/api?username=campasachamp&title_color=6B63FF&bg_color=22272E&hide_border=true&text_color=FFF)](https://github.com/campasachamp/github-readme-stats)
+
+### My Skills & Technologies
+<!---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+--->
+
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,python,cpp,react,redux,js,html,css,postgres,kubernetes,docker,gcp,aws,git,linux,figma&perline=7)](https://skillicons.dev)
