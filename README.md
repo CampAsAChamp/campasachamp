@@ -5,9 +5,7 @@
 <p align="center">🔭 I’m currently working on Intuit's TurboTax</p>
 <p align="center">🌱 Using Java, Spring, and React</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-alpha-blush.vercel.app/api?username=campasachamp&title_color=6B63FF&bg_color=22272E&hide_border=true&text_color=FFF" alt="Nick's GitHub Stars">
-</p>
+---------------------
 
 <h3 align="center">My Skills & Technologies</h3>
 <p align="center">
